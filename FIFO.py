@@ -1,6 +1,5 @@
 import ast
 
-
 class FIFO:
     def __init__(self, molduras, chamadaPaginas):
         self.molduras = molduras
